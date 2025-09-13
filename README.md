@@ -84,7 +84,7 @@ This section frames the analysis **from the perspective of a stakeholder or stor
 <img width="1158" height="645" alt="Image" src="https://github.com/user-attachments/assets/a1ec15d9-1a4a-4e4e-8182-fe485e8c8699" />
 
 ## Complete Report
-
+[Sales Analysis-HalloTech.docx](https://github.com/user-attachments/files/22309602/Sales.Analysis-HalloTech.docx)
 
 ## 🧰 Tools & Technologies
 - **Power BI** → dashboards & storytelling.  
