@@ -81,6 +81,9 @@ This section frames the analysis **from the perspective of a stakeholder or stor
 **1. CRISP-DM (Cross Industry Standard Process for Data Mining)**
 
 ## Daboard View
+<img width="1158" height="645" alt="Image" src="https://github.com/user-attachments/assets/a1ec15d9-1a4a-4e4e-8182-fe485e8c8699" />
+
+## Complete Report
 
 
 ## 🧰 Tools & Technologies
