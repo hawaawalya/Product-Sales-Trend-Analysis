@@ -92,7 +92,6 @@ This section frames the analysis **from the perspective of a stakeholder or stor
 
 ## 🚀 Key Learnings
 - Sales trend analysis combines **statistics + business context**.  
-- Outlier detection avoids misleading results.  
 - Using a question-driven framework (like the Technical Test above) ensures relevance for decision makers.  
 
 
